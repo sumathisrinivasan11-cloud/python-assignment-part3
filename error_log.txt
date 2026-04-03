@@ -1,0 +1,8 @@
+[2026-04-04 00:30:24] ERROR in fetch_products: ConnectionError — No connection could be made
+[2026-04-04 00:30:55] ERROR in lookup_product: HTTPError — 404 Not Found for product ID 999
+[2026-04-04 00:32:54] ERROR in fetch_products: ConnectionError — No connection could be made
+[2026-04-04 00:32:55] ERROR in lookup_product: HTTPError — 404 Not Found for product ID 999
+[2026-04-04 00:39:42] ERROR in fetch_products: ConnectionError — No connection could be made
+[2026-04-04 00:39:43] ERROR in lookup_product: HTTPError — 404 Not Found for product ID 999
+[2026-04-04 00:59:19] ERROR in fetch_products: ConnectionError — No connection could be made
+[2026-04-04 00:59:20] ERROR in lookup_product: HTTPError — 404 Not Found for product ID 999
